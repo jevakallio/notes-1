@@ -64,3 +64,4 @@ So, there will be 2 services in this application
     ![CORS Error on Chrome Dev Tools](images/CORS_error.png)
 
 [[ Request Minimisation ]]
+[[ Adding a feature - Content Moderation ]]
